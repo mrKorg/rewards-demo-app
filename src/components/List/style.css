@@ -1,0 +1,7 @@
+.list {
+  background-color: white;
+}
+
+.list .ant-menu-item {
+  text-transform: capitalize;
+}
