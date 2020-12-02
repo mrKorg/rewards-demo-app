@@ -1,6 +1,5 @@
 import React from "react";
 
-import "./style.css";
 import { Reward } from "store/types";
 
 interface Props {
